@@ -36,6 +36,7 @@
     Plugins: 
     <br />
     <a href="https://github.com/MelodicAlbuild/MaximusEvents">Events</a>
+    [![Version][max-events]]
     <br />
     <a href="https://github.com/MelodicAlbuild/MaximusLogging">Logging</a>
     <br />
@@ -213,3 +214,10 @@ Project Links:
 [issues-url]: https://github.com/MelodicAlbuild/MaximusHub/issues
 [license-shield]: https://img.shields.io/github/license/MelodicAlbuild/MaximusHub.svg?style=for-the-badge
 [license-url]: https://github.com/MelodicAlbuild/MaximusHub/blob/master/LICENSE
+[max-discord]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusDiscord?style=for-the-badge
+[max-core]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusCore?style=for-the-badge
+[max-bungee]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusBungee?style=for-the-badge
+[max-listener]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusListener?style=for-the-badge
+[max-events]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusEvents?style=for-the-badge
+[max-gov]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusGovernment?style=for-the-badge
+[max-logging]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusLogging?style=for-the-badge
