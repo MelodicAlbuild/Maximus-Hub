@@ -110,7 +110,7 @@ I made all of these projects to give new functionality to the Maximus Core and M
 ![max-logging]
 
 ### Government:
-![max-gov]
+[![Government][max-gov]][https://github.com/MelodicAlbuild/MaximusGovernment]
 
 ### Bungee:
 ![max-bungee]
