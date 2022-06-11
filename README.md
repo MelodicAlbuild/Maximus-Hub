@@ -100,7 +100,7 @@ I made all of these projects to give new functionality to the Maximus Core and M
 
 ### Plugins
 
-* ![max-events]
+## Events: ![max-events]
 
 
 <!-- GETTING STARTED -->
