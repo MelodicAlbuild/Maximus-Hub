@@ -250,7 +250,7 @@ Project Links:
 [max-listener-url]: https://github.com/MelodicAlbuild/MaximusListener/releases/latest
 [max-events]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusEvents?label=Events%20Version&style=for-the-badge
 [max-events-url]: https://github.com/MelodicAlbuild/MaximusEvents/releases/latest
-[max-gov]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusGovernment?label=Gov%20Version&style=for-the-badge
+[max-gov]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusGovernment?label=Government%20Version&style=for-the-badge
 [max-gov-url]: https://github.com/MelodicAlbuild/MaximusGovernment/releases/latest
 [max-logging]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusLogging?label=Logging%20Version&style=for-the-badge
 [max-logging-url]: https://github.com/MelodicAlbuild/MaximusLogging/releases/latest
