@@ -110,7 +110,7 @@ I made all of these projects to give new functionality to the Maximus Core and M
 ![max-logging]
 
 ### Government:
-[![Government][max-gov]][https://github.com/MelodicAlbuild/MaximusGovernment]
+[![Government][max-gov]][max-gov-url]
 
 ### Bungee:
 ![max-bungee]
@@ -238,4 +238,5 @@ Project Links:
 [max-listener]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusListener?style=for-the-badge
 [max-events]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusEvents?style=for-the-badge
 [max-gov]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusGovernment?style=for-the-badge
+[max-gov-url]: https://github.com/MelodicAlbuild/MaximusGovernment/releases/latest
 [max-logging]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusLogging?style=for-the-badge
