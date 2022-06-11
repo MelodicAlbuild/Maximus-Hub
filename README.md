@@ -38,15 +38,20 @@
     A Collection of all the Plugins that I made for the Maximus SMP Server, Open Sourced.
     <br />
     <a href="https://github.com/MelodicAlbuild/MaximusHub/wiki"><strong>Explore the docs » (WIP)</strong></a>
-    <br />
-    <br />
+    <br /><br />
     Maximus Core:
     <a href="https://github.com/MelodicAlbuild/MaximusCore">Core</a>
+    <br />
     Plugins: 
+    <br />
     <a href="https://github.com/MelodicAlbuild/MaximusEvents">Events</a>
+    <br />
     <a href="https://github.com/MelodicAlbuild/MaximusLogging">Logging</a>
+    <br />
     <a href="https://github.com/MelodicAlbuild/MaximusGovernment">Government</a>
+    <br />
     <a href="https://github.com/MelodicAlbuild/MaximusBungee">Bungeecord</a>
+    <br />
     <a href="https://github.com/MelodicAlbuild/MaximusListener">Listener</a>
   </p>
 </div>
