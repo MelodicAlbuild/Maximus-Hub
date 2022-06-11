@@ -102,22 +102,25 @@ I made all of these projects to give new functionality to the Maximus Core and M
 
 ## Plugins:
 
-### Core:
+### Global:
+[![Global][max-hub]][max-hub-url]
+
+#### Core:
 [![Core][max-core]][max-core-url]
 
-### Events:
+#### Events:
 [![Events][max-events]][max-events-url]
 
-### Logging:
+#### Logging:
 [![Logging][max-logging]][max-logging-url]
 
-### Government:
+#### Government:
 [![Government][max-gov]][max-gov-url]
 
-### Bungee:
+#### Bungee:
 [![Bungee][max-bungee]][max-bungee-url]
 
-### Listener:
+#### Listener:
 [![Listener][max-listener]][max-listener-url]
 
 <!-- GETTING STARTED -->
@@ -249,3 +252,5 @@ Project Links:
 [max-gov-url]: https://github.com/MelodicAlbuild/MaximusGovernment/releases/latest
 [max-logging]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusLogging?style=for-the-badge
 [max-logging-url]: https://github.com/MelodicAlbuild/MaximusLogging/releases/latest
+[max-hub]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusHub?style=for-the-badge
+[max-hub-url]: https://github.com/MelodicAlbuild/MaximusHub/releases/latest
