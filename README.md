@@ -44,6 +44,8 @@
     <a href="https://github.com/MelodicAlbuild/MaximusBungee">Bungeecord</a>
     <br />
     <a href="https://github.com/MelodicAlbuild/MaximusListener">Listener</a>
+    <br />
+    <a href="https://github.com/MelodicAlbuild/MaximusDiscord">Discord</a>
   </p>
 </div>
 
@@ -101,22 +103,22 @@ I made all of these projects to give new functionality to the Maximus Core and M
 ## Plugins:
 
 ### Core:
-![max-core]
+[![Core][max-core]][max-core-url]
 
 ### Events:
-![max-events]
+[![Events][max-events]][max-events-url]
 
 ### Logging:
-![max-logging]
+[![Logging][max-logging]][max-logging-url]
 
 ### Government:
 [![Government][max-gov]][max-gov-url]
 
 ### Bungee:
-![max-bungee]
+[![Bungee][max-bungee]][max-bungee-url]
 
 ### Listener:
-![max-listener]
+[![Listener][max-listener]][max-listener-url]
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -204,6 +206,7 @@ Project Links:
  - [Maximus Government](https://github.com/MelodicAlbuild/MaximusGovernment)
  - [Maximus Bungee](https://github.com/MelodicAlbuild/MaximusBungee)
  - [Maximus Listener](https://github.com/MelodicAlbuild/MaximusListener)
+ - [Maximus Discord](https://github.com/MelodicAlbuild/MaximusDiscord)
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
@@ -233,10 +236,16 @@ Project Links:
 [license-shield]: https://img.shields.io/github/license/MelodicAlbuild/MaximusHub.svg?style=for-the-badge
 [license-url]: https://github.com/MelodicAlbuild/MaximusHub/blob/master/LICENSE
 [max-discord]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusDiscord?style=for-the-badge
+[max-discord-url]: https://github.com/MelodicAlbuild/MaximusDiscord/releases/latest
 [max-core]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusCore?style=for-the-badge
+[max-core-url]: https://github.com/MelodicAlbuild/MaximusCore/releases/latest
 [max-bungee]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusBungee?style=for-the-badge
+[max-bungee-url]: https://github.com/MelodicAlbuild/MaximusBungee/releases/latest
 [max-listener]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusListener?style=for-the-badge
+[max-listener-url]: https://github.com/MelodicAlbuild/MaximusListener/releases/latest
 [max-events]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusEvents?style=for-the-badge
+[max-events-url]: https://github.com/MelodicAlbuild/MaximusEvents/releases/latest
 [max-gov]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusGovernment?style=for-the-badge
 [max-gov-url]: https://github.com/MelodicAlbuild/MaximusGovernment/releases/latest
 [max-logging]: https://img.shields.io/github/v/release/MelodicAlbuild/MaximusLogging?style=for-the-badge
+[max-logging-url]: https://github.com/MelodicAlbuild/MaximusLogging/releases/latest
