@@ -31,7 +31,9 @@
     <a href="https://github.com/MelodicAlbuild/MaximusHub/wiki"><strong>Explore the docs » (WIP)</strong></a>
     <br /><br />
     Maximus Core:
+    <br />
     <a href="https://github.com/MelodicAlbuild/MaximusCore">Core</a>
+    <br />
     <br />
     Plugins: 
     <br />
