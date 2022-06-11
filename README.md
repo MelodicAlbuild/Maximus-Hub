@@ -36,7 +36,6 @@
     Plugins: 
     <br />
     <a href="https://github.com/MelodicAlbuild/MaximusEvents">Events</a>
-    [![Version][max-events]]
     <br />
     <a href="https://github.com/MelodicAlbuild/MaximusLogging">Logging</a>
     <br />
@@ -98,6 +97,10 @@ I made all of these projects to give new functionality to the Maximus Core and M
 
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
+
+### Plugins
+
+* [![Version][max-events]][]
 
 
 <!-- GETTING STARTED -->
