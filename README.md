@@ -100,9 +100,23 @@ I made all of these projects to give new functionality to the Maximus Core and M
 
 ## Plugins:
 
+### Core:
+![max-core]
+
 ### Events:
 ![max-events]
 
+### Logging:
+![max-logging]
+
+### Government:
+![max-gov]
+
+### Bungee:
+![max-bungee]
+
+### Listener:
+![max-listener]
 
 <!-- GETTING STARTED -->
 ## Getting Started
