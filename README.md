@@ -98,9 +98,10 @@ I made all of these projects to give new functionality to the Maximus Core and M
 <p align="right">(<a href="#top">Back to Top</a>)</p>
 
 
-### Plugins
+## Plugins:
 
-## Events: ![max-events]
+### Events:
+![max-events]
 
 
 <!-- GETTING STARTED -->
