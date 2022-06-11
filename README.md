@@ -163,7 +163,7 @@ Refer to each projects README for specific Documentation.
 - [ ] Update MaximusBungee to include base Bungeecord Commands
 - [ ] Update MaximusEvents
     - [ ] Finish the Blood Moon
-- [ ] Get all Plugins out of Prerelease
+- [x] Get all Plugins out of Prerelease
 
 See the [open issues](https://github.com/MelodicAlbuild/MaximusHub/issues) for a full list of proposed features (and known issues).
 
